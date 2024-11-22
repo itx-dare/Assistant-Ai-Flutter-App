@@ -1,0 +1,56 @@
+name: assistant_ai
+description: "An AI Assistant (ChatBot, Image Generator & Language Translator) App Based on ChatGPT developed by Muhammad Hamza"
+
+publish_to: 'none'
+
+version: 1.0.0+1                      # App Version
+
+environment:                          # Environment
+  sdk: ^3.5.1
+
+dependencies:                         # Dependencies
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  lottie: ^3.1.2                      # For using Lottie Animations
+  hive: ^2.2.3                        # Using this version due to less apk size
+  hive_flutter: ^1.1.0                # Using this version due to less apk size
+  path_provider: ^2.1.3               # For Accessing Storage Path
+  get: ^4.6.6                         # For State Management
+  flutter_animate: ^4.5.0             # For Custom Animation
+  animated_text_kit: ^4.2.2           # For Custom Animation
+  http: ^1.2.2                        # For API Call
+  dart_openai: ^5.1.0                 # For AI Image Generation
+  cached_network_image: ^3.3.1        # For AI Image Generation
+  google_generative_ai: ^0.4.3        # Google Gemini Ai Integration
+  translator_plus: ^1.0.1             # For Google Language Translate
+  gallery_saver_updated: ^3.0.0       # For Saving Image to Gallery
+  share_plus: ^9.0.0                  # For Sharing Image
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0               # Encourages Good Practices
+
+flutter:
+
+  uses-material-design: true          # Enables Material Design
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/lottie/
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
