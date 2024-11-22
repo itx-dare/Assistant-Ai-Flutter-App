@@ -22,7 +22,14 @@ A powerful app built with Flutter that integrates AI chatbots, image generation,
 **Actual app looks even better! 😃**
 
 <kbd>
-  <img src="" width=30% height=30%/>
+  <img src="https://github.com/itx-dare/Assistant-Ai-Flutter-App/blob/master/sample%20apk/screenshots/1_d.jpg" width=30% height=30%/>
+  <img src="https://github.com/itx-dare/Assistant-Ai-Flutter-App/blob/master/sample%20apk/screenshots/2_d.jpg" width=30% height=30%/>
+  <img src="https://github.com/itx-dare/Assistant-Ai-Flutter-App/blob/master/sample%20apk/screenshots/3_d.jpg" width=30% height=30%/>
+  <img src="https://github.com/itx-dare/Assistant-Ai-Flutter-App/blob/master/sample%20apk/screenshots/4_d.jpg" width=30% height=30%/>
+  <img src="https://github.com/itx-dare/Assistant-Ai-Flutter-App/blob/master/sample%20apk/screenshots/5_d.jpg" width=30% height=30%/>
+  <img src="https://github.com/itx-dare/Assistant-Ai-Flutter-App/blob/master/sample%20apk/screenshots/6_d.jpg" width=30% height=30%/>
+  <img src="https://github.com/itx-dare/Assistant-Ai-Flutter-App/blob/master/sample%20apk/screenshots/7_d.jpg" width=30% height=30%/>
+  <img src="https://github.com/itx-dare/Assistant-Ai-Flutter-App/blob/master/sample%20apk/screenshots/8_d.jpg" width=30% height=30%/>
 </kbd>
 
 ---
